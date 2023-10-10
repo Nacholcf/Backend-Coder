@@ -1,0 +1,48 @@
+[
+	{
+		"id": 1,
+		"title": "Remera Oversize Green",
+		"description": "Remera Oversize Green",
+		"price": 14000,
+		"thumbnail": [
+			"Imagen de Remera Green"
+		],
+		"code": "aaa001",
+		"stock": 25
+	},
+	{
+		"id": 2,
+		"title": "Remera Oversize Black",
+		"description": "Remera Oversize Black",
+		"price": 14000,
+		"thumbnail": [
+			"Imagen de Remera Black"
+		],
+		"code": "aaa002",
+		"stock": 25
+	},
+	{
+		"id": 3,
+		"title": "Remera Oversize White",
+		"description": "Remera Oversize White",
+		"price": 14000,
+		"thumbnail": [
+			"Imagen de Remera White1",
+			"Imagen de Mouse2"
+		],
+		"code": "aaa003",
+		"stock": 30
+	},
+	{
+		"id": 4,
+		"title": "Buzo Oversize Grey",
+		"description": "Buzo Oversize Grey",
+		"price": 30000,
+		"thumbnail": [
+			"Imagen de Buzo Grey",
+			"Imagen de Buzo Grey"
+		],
+		"code": "bbb001",
+		"stock": 45
+	}
+]
